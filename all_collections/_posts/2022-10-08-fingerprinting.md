@@ -6,7 +6,7 @@ categories: [bitcoin, fingerprinting, privacy, wallet]
 
 ## Wallet Fingerprinting, nLocktime and nVersion
 
-### What is the nLocktime and nVersion?
+### What is nLocktime and nVersion?
 
 **nLocktime**: The last four bytes of transaction data determine when a transaction may be mined. Locktime may be used to ensure that a transaction is locked until a certain block height or point in time. In order for the locktime to be effective, one of the sequence values must be set to anything less than the default maximum (0xffffffff), which is done automatically in most wallets.
 
@@ -20,7 +20,7 @@ I examined nlocktime and nversion for several open source bitcoin wallets and di
 
 [0xb10c](https://twitter.com/0xb10c) has written about wallet fingerprinting using fee rate: [https://b10c.me/observations/03-blockchaincom-recommendations/](https://b10c.me/observations/03-blockchaincom-recommendations/) however, nlocktime and nversion are also crucial. There may be other factors that might help if a fingerprint matches more than one wallet. Andrew Chow has also created a tool to check if a transaction was created using Bitcoin Core or Electrum and explained in this video:
 
-[![wallet-fingerprinting](https://i.imgur.com/dIwF5mv.png)]https://youtu.be/NAtDz2EE9ac)
+[![wallet-fingerprinting](https://i.imgur.com/dIwF5mv.png)](https://youtu.be/NAtDz2EE9ac)
 
 It's an [open source tool](https://github.com/achow101/wallet-fingerprinting) written in rust.
 
@@ -31,3 +31,10 @@ Consider the following scenario: Alice is spying on Bob and Carol. She suspects 
 ### How to fix it?
 
 If more wallets have the same nversion and nlocktime, it will be difficult to identify the wallets used for a transaction. nLocktime could be any nearest block height however version needs to be 2 as most of the wallets use it and it is used for transactions that follow all consensus rules.
+
+### Acknowledgements
+
+- Andrew Chow
+- 0xb10c
+- nothingmuch
+- RedGrittyBrick
