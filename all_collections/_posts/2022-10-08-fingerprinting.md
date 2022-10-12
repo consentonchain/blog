@@ -34,7 +34,8 @@ If more wallets have the same nversion and nlocktime, it will be difficult to id
 
 ### Acknowledgements
 
-- Andrew Chow
 - 0xb10c
+- Andrew Chow
+- Greg Walker
 - nothingmuch
 - RedGrittyBrick
