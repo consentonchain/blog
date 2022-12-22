@@ -12,7 +12,7 @@ It is possible for an attacker to save a malicious link as profile image and mos
 
 Steps to reproduce the issue:
 
-1. Create a canary canary token by selecting 'custom image bug'
+1. Create a [canary](https://canarytokens.org/generate) token by selecting 'custom image bug'
 
    ![canary](https://i.ibb.co/BspfGDG/image.png)
 
