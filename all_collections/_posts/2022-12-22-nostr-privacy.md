@@ -42,7 +42,7 @@ Contact lists are defined in [NIP-02](https://github.com/Minds/nostr-nips/blob/m
 
 ## Relays
 
-Relays know a lot about clients so [joinstr](https://github.com/1440000bytes/joinstr) uses below things:
+Relays know IP address, user agents, public keys trying to read/write, websocket request info etc. about clients so [joinstr](https://github.com/1440000bytes/joinstr) uses below things:
 
 1. New keys for posting every event
 2. Random subscription id for getting events
