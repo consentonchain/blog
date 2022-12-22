@@ -51,7 +51,7 @@ Relays know IP address, user agents, public keys trying to read/write, websocket
 
 You could also run your own relay for some use cases although its always good to use multiple relays. Use clients that care about privacy and VPN/proxy. If you are running a relay, being anon could be helpful if government agencies have issues with some events being published in the future when nostr gets too big.
 
-## Encrpted Channels
+## Encrypted Channels
 
 [NIP-28](https://github.com/nostr-protocol/nips/blob/master/28.md) defines public channels but there is no way to create encryped channels in the protocol right now. Vishal is working on a [NIP](https://github.com/nostr-protocol/nips/pull/59), implemented in [nostr-console](https://github.com/vishalxl/nostr_console) however it is still being reviewed and tested.
 
