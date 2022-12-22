@@ -14,7 +14,7 @@ Steps to reproduce the issue:
 
 1. Create a canary canary token by selecting 'custom image bug'
 
-   [canary](https://i.ibb.co/BspfGDG/image.png)
+   ![canary](https://i.ibb.co/BspfGDG/image.png)
 
 2. Open [https://astral.ninja/](https://astral.ninja/) and save the URL you get from step 1 as profile image
 
@@ -22,7 +22,7 @@ Steps to reproduce the issue:
 
 4. You would see notifications like this:
    
-   [notification](https://i.ibb.co/4RTQKBB/image.png)
+   ![notification](https://i.ibb.co/4RTQKBB/image.png)
 
 ## Metadata leak in encrypted DM
 
