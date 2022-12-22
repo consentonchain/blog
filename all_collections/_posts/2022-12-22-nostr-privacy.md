@@ -1,3 +1,4 @@
+---
 layout: post
 title: Nostr Privacy
 categories: [nostr, privacy]
