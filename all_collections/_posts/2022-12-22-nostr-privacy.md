@@ -4,7 +4,7 @@ title: Nostr Privacy
 categories: [nostr, privacy]
 ---
 
-I have observed a few privacy issues with [nostr protocol](https://github.com/nostr-protocol/nostr) and apps related to privacy. This post is not attempt to FUD although this could help in more users being aware of the problems and possible solutions.
+I have observed a few privacy issues with [nostr protocol](https://github.com/nostr-protocol/nostr) and apps related to privacy. This post is not an attempt to FUD although this could help in more users being aware of the problems and possible solutions.
 
 ## IP leak using profile image
 
