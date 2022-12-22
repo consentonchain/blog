@@ -16,7 +16,7 @@ Steps to reproduce the issue:
 
    ![canary](https://i.ibb.co/BspfGDG/image.png)
 
-2. Open [https://astral.ninja/](https://astral.ninja/) and save the URL you get from step 1 as profile image
+2. Open [astral.ninja](https://astral.ninja/) and save the URL you get from step 1 as profile image
 
 3. Post something and wait for canary token email notifications.
 
