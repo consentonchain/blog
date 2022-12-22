@@ -28,7 +28,7 @@ Steps to reproduce the issue:
 
 Attackers can spy using public keys to see who is sending DMs to whom and the time. Although they wont know the content of messages.
 
-Wiz had even [tweeted]((https://i.ibb.co/hfXDFZx/image.png)) about it and there are some NIPs, suggestions etc. to fix metadata leak for improving privacy in DMs.
+Wiz had even [tweeted](https://i.ibb.co/hfXDFZx/image.png) about it and there are some NIPs, suggestions etc. to fix metadata leak for improving privacy in DMs.
 
 NIP 21 (fiatjaf): [https://github.com/nostr-protocol/nips/pull/20](https://github.com/nostr-protocol/nips/pull/20)
 
