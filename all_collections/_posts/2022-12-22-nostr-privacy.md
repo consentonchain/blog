@@ -22,7 +22,7 @@ Steps to reproduce the issue:
 
 4. You would see notifications like this:
    
-   ![notification](https://i.ibb.co/4RTQKBB/image.png)
+   ![notification](https://i.ibb.co/y8Gq15y/image.png)
 
 ## Metadata leak in encrypted DM
 
