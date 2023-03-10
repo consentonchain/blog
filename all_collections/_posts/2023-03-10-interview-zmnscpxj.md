@@ -108,4 +108,4 @@ Look at stuff that builds on top of Bitcoin, would be my bet.
 
 ### Acknowledgements
 
-[Alex Waltz](https://twitter.com/raw_avocado), [Max](https://twitter.com/maxtannahill) and [nothingmuch](https://twitter.com/not_nothingmuch) helped in revieweing questions for the interview.
+[Alex Waltz](https://twitter.com/raw_avocado), [Max](https://twitter.com/maxtannahill) and [nothingmuch](https://twitter.com/not_nothingmuch) helped in reviewing questions for the interview.
