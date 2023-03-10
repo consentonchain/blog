@@ -6,7 +6,7 @@ categories: [ZmnSCPxj, bitcoin, privacy]
 
 ![image](https://i.imgur.com/pniZLmv.png)
 
-[ZmnSCPxj](https://zmnscpxj.github.io/) is a randomly-generated Internet person who contributes to bitcoin and lightning. I interviewed them over emails and asked a few question about bitcoin, privacy etc.
+[ZmnSCPxj](https://zmnscpxj.github.io/) is a randomly-generated Internet person who contributes to bitcoin and lightning. I interviewed them over emails and asked a few questions about bitcoin, privacy etc.
 
 
 > What are the best practices for good opsec? Any suggestions for new developers interested to contribute to bitcoin?
