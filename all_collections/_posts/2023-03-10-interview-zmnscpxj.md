@@ -64,7 +64,7 @@ None.
 
 > Thoughts on the current state of privacy in bitcoin and lightning? Why is bitcoin used less on darknet markets right now compared to a few years back?
 
-Privacy on Bitcoin is currently fairly bad, most people do not use things like JoinMarket or Wasabi often enough.
+Privacy on Bitcoin is currently fairly bad, most people do not use coinjoin often enough.
 This is probably the reason why darknet markets are not using it as much anymore.
 There is a strong undercurrent of "legitimacy" among large Bitcoin companies, and many such companies will coordinate to block obviously-dark UTXOs from being used with their products.
 
