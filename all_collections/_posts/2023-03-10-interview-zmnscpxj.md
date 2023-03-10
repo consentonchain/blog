@@ -91,7 +91,7 @@ The CoinSwap implementation of `belcher_`.
 Yes.
 
 
-> Taproot was expected to improve privacy by making nofn multisig look same as single sig in transactions. Its lacking the adoption apart from recent usage for inscriptions, any comments?
+> Taproot was expected to improve privacy by making n-of-n multisig look same as single sig in transactions. Its lacking the adoption apart from recent usage for inscriptions, any comments?
 
 I think the big issue here is that there is little incentive to use the singlesig for Taproot.
 Consider that for SegWit, it would be cheaper for a singlesig user to switch to SegWit from P2PKH, there is no similar discount for singlesig Taproot users.
